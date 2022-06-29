@@ -17,7 +17,7 @@ SigUSD is a decentralized stablecoin backed by Ergo, overcollaterallized by 400%
 ErgoPad is a token launch platform for Ergo, giving the user an opportunity to get in on the ground foor with Ergo token Intial DEX Offerings. They help projects navigate ErgoScript to build safe apps for all.
 ErgoLend is a P2P lending platform with easy to use tools to borrow and lend money on the Ergo Blockchain. The goal is to leverage blockchain technology to create a golbal lending platform. With lower borrowing costs, smaller loans become viable. This opens up a large, untapped market of borrowers.
 SkyHarbor.io is the most popular site recently created for purchasing Ergo NFTs, similar to OpenSea. 
-Sigmaverse.io is a one stop portal to the Ergo Decentralized application ecosystem: a place where users can find all the cool funcitionality that community developers are building on Ergo, all in one place.
+Sigmaverse.io is a one stop portal to the Ergo Decentralized application ecosystem: a place where users can find all the cool funcitionality that community developers are building on Ergo, all in one place.(Sigmaverse, 2022)
 ## Landscape
 Ergo is in the FinTech domain of Blockchain and Cryptocurrency.
 Major innovations of the last 5-10 years in this domain has to be the success of Ethereum, the open-source and smart contract functional cryptocurrency. It's ability to create custom tokens on Ethereum allowed NFTs to exist, which directly influenced the NFT boom with CryptoPunks in 2017, and Bored Ape Yacht Club in 2021. Proof-of-Stake would be another innovation in the short term that has gained popularity. 
