@@ -20,7 +20,7 @@ SkyHarbor.io is the most popular site recently created for purchasing Ergo NFTs,
 Sigmaverse.io is a one stop portal to the Ergo Decentralized application ecosystem: a place where users can find all the cool funcitionality that community developers are building on Ergo, all in one place.(Sigmaverse, 2022)
 ## Landscape
 Ergo is in the FinTech domain of Blockchain and Cryptocurrency.
-Major innovations of the last 5-10 years in this domain has to be the success of Ethereum, the open-source and smart contract functional cryptocurrency. It's ability to create custom tokens on Ethereum allowed NFTs to exist, which directly influenced the NFT boom with CryptoPunks in 2017, and Bored Ape Yacht Club in 2021. Proof-of-Stake would be another innovation in the short term that has gained popularity. 
+Major innovations of the last 5-10 years in this domain has to be the success of Ethereum, the open-source and smart contract functional cryptocurrency. It's ability to create custom tokens on Ethereum allows NFTs to exist, which directly influenced the NFT boom with CryptoPunks in 2017, and Bored Ape Yacht Club in 2021. Proof-of-Stake would be another innovation in the short term that has gained popularity. 
 Major currencies in the space are Bitcoin, Ethereum, Cardano and potentially risky stablecoins that people trust.
 ## Results
 Based on these developments, I would state thier buisness impact has been positive and developing well.
