@@ -16,7 +16,7 @@ The most notable being a decentralized exchange (DEX) called ErgoDEX co-founded 
 SigUSD is a decentralized stablecoin backed by Ergo, overcollaterallized by 400% to 800% reserve ratio. "A reserve-backed model is a superior model in preventing cascading liquidations during extreme volatility"(Ergo Platform, 2022). In other words, when the price begins to fall and users are liquidating thier positions, the stablecoin will hold its peg to the dollar.
 ErgoPad is a token launch platform for Ergo, giving the user an opportunity to get in on the ground foor with Ergo token Intial DEX Offerings. They help projects navigate ErgoScript to build safe apps for all.
 ErgoLend is a P2P lending platform with easy to use tools to borrow and lend money on the Ergo Blockchain. The goal is to leverage blockchain technology to create a golbal lending platform. With lower borrowing costs, smaller loans become viable. This opens up a large, untapped market of borrowers.
-SkyHarbor.io is the most popular site recently created for purchasing Ergo NFTs. Similar to OpenSea. 
+SkyHarbor.io is the most popular site recently created for purchasing Ergo NFTs, similar to OpenSea. 
 Sigmaverse.io is a one stop portal to the Ergo Decentralized application ecosystem: a place where users can find all the cool funcitionality that community developers are building on Ergo, all in one place.
 ## Landscape
 Ergo is in the FinTech domain of Blockchain and Cryptocurrency.
