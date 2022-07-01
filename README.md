@@ -1,6 +1,8 @@
 # Ergo: Framework for the Future
 ## Overview and Origin
 The origin story of the founders {(Chepurnoy, Alex),(Meshkov, Dimitry)} begins in 2015. The two of them were working together on a project, Scorex, a modular blockchain engine framework created to produce systems and test them as fast as possible, along with fast prototyping and experimentation (Chepurnoy, 2016). This project caught the attention of Cardano and Ethereum co-founder Charles Hoskinson. This is when Alex became one of the first employees at IOHK, an engineering and research company that builds blockchains and cryptocurrencies. Alex became the Director of ScoreX projects, managing developers and writing code out of passion. Dimitry followed soon after, deploying R&D for IOHK. He was focused on a framework for blockchain prototyping. In 2017, the two of them began the developing what would become, Ergo. They spent two years working through problems within the Bitcoin accounting model, known as the unspent transaction output model (UTXO). They intened to maintain a grassroots approach with organic marketing through various outlets. 
+
+
 Ergo launched July 1st, 2019.
 Alex Chepurnoy is the Co-Founder and Core Developer of the Ergo Platform. Alex has written over twenty academic papers and has more than fifteen years of experience in Software Development. He was also a Core Developer for NXT, and co-founded smartcontract.com, now known as Chainlink. 
 Dimitry Meshkov is a Core Developer on Ergo. Dimitry has a PhD in Physics and over ten years experience in software development, and has written several peer-reviewed papers on cryptocurrency. 
