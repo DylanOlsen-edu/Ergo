@@ -18,11 +18,12 @@ Remember that Silicon Valley show, the one about data compression? Ergo did just
 
 ## Decentralized Applications(DAAPS)
 Developers have created some very useful applications built on top of Ergo. The most notable being a decentralized exchange (DEX) called ErgoDEX co-founded by Ilya Oskin. The DEX holds some useful tokens, I will briefly share a few applications:
-SigUSD is a decentralized stablecoin backed by Ergo, overcollaterallized by 400% to 800% reserve ratio. "A reserve-backed model is a superior model in preventing cascading liquidations during extreme volatility"(Ergo Platform, 2022). In other words, when the price begins to fall and users are liquidating thier positions, the stablecoin will hold its peg to the dollar.
-ErgoPad is a token launch platform for Ergo, giving the user an opportunity to get in on the ground foor with Ergo token Intial DEX Offerings. They help projects navigate ErgoScript to build safe apps for all.
-ErgoLend is a P2P lending platform with easy to use tools to borrow and lend money on the Ergo Blockchain. The goal is to leverage blockchain technology to create a golbal lending platform. With lower borrowing costs, smaller loans become viable. This opens up a large, untapped market of borrowers.
-SkyHarbor.io is the most popular site recently created for purchasing Ergo NFTs, similar to OpenSea. 
-Sigmaverse.io is a one stop portal to the Ergo Decentralized application ecosystem: a place where users can find all the cool funcitionality that community developers are building on Ergo, all in one place.(Sigmaverse, 2022)
+
+1. SigUSD is a decentralized stablecoin backed by Ergo, overcollaterallized by 400% to 800% reserve ratio. "A reserve-backed model is a superior model in preventing cascading liquidations during extreme volatility"(Ergo Platform, 2022). In other words, when the price begins to fall and users are liquidating thier positions, the stablecoin will hold its peg to the dollar.
+2. ErgoPad is a token launch platform for Ergo, giving the user an opportunity to get in on the ground foor with Ergo token Intial DEX Offerings. They help projects navigate ErgoScript to build safe apps for all.
+3. ErgoLend is a P2P lending platform with easy to use tools to borrow and lend money on the Ergo Blockchain. The goal is to leverage blockchain technology to create a golbal lending platform. With lower borrowing costs, smaller loans become viable. This opens up a large, untapped market of borrowers.
+4. SkyHarbor.io is the most popular site recently created for purchasing Ergo NFTs, similar to OpenSea. 
+5. Sigmaverse.io is a one stop portal to the Ergo Decentralized application ecosystem: a place where users can find all the cool funcitionality that community developers are building on Ergo, all in one place.(Sigmaverse, 2022)
 ## Landscape
 Ergo is in the FinTech domain of Blockchain and Cryptocurrency.
 Major innovations of the last 5-10 years in this domain has to be the success of Ethereum, the open-source and smart contract functional cryptocurrency. It's ability to create custom tokens on Ethereum allows NFTs to exist, which directly influenced the NFT boom with CryptoPunks in 2017, and Bored Ape Yacht Club in 2021. Proof-of-Stake would be another innovation in the short term that has gained popularity. 
